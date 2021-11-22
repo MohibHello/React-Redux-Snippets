@@ -1,0 +1,6 @@
+.category-list {
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+    margin: 0% 2%;
+}

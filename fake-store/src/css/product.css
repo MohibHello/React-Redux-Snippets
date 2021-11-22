@@ -1,0 +1,25 @@
+.product-desc {
+    display: flex;
+    flex-flow: column wrap;
+    gap: 5%;
+    margin: 0% 2%;
+    justify-content: center;
+}
+
+.img-size {
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.inv-desc {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 1%;
+}
+
+.desc-bold {
+    font-weight: bolder;
+}

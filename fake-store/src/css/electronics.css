@@ -1,0 +1,7 @@
+.electronics-list {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 5%;
+    margin: 0% 2%;
+    justify-content: center;
+}
